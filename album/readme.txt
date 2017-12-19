@@ -1,0 +1,1 @@
+Edit includes/config.php to contain your server username, password and database name
